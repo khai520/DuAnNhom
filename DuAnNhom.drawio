@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T01:03:13.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Gkdy6MWic-WnyUNuZ6jl" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T01:03:44.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XnBLQU8QAm-bEHyW14Ux" version="22.1.17" type="github">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,9 +109,6 @@
         <mxCell id="s3C_4ocLMXlNBmhWru_O-15" value="Đánh Giá Sản Phẩm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="610" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s3C_4ocLMXlNBmhWru_O-16" value="Quên Mật Khẩu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="900" width="125" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="s3C_4ocLMXlNBmhWru_O-17" value="Yêu Thích Sản Phẩm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="990" width="125" height="40" as="geometry" />
         </mxCell>
@@ -166,12 +163,6 @@
             <mxPoint x="580" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3C_4ocLMXlNBmhWru_O-35" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="s3C_4ocLMXlNBmhWru_O-16" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="490" y="890" as="sourcePoint" />
-            <mxPoint x="650" y="890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s3C_4ocLMXlNBmhWru_O-36" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.064;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="s3C_4ocLMXlNBmhWru_O-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="450" y="910" as="sourcePoint" />
@@ -211,7 +202,7 @@
             <mxPoint x="470" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q92bx0pPXCNMCnQGFN---2" value="UserKey Khách Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q92bx0pPXCNMCnQGFN---2" value="UserKey Khách Hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="545" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
