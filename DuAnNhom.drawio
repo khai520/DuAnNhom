@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T14:40:20.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nlfNUBgPRiik1mJJj32g" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T00:51:01.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="fnj8U93l_5x0m5w-fLqX" version="22.1.18" type="github">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
-    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
             <mxPoint x="150" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3C_4ocLMXlNBmhWru_O-2" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+        <mxCell id="s3C_4ocLMXlNBmhWru_O-2" value="Use key Quản lý" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="599" width="790" height="570" as="geometry" />
         </mxCell>
         <mxCell id="s3C_4ocLMXlNBmhWru_O-5" value="Đăng Nhập" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -149,7 +149,7 @@
             <mxPoint x="660" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3C_4ocLMXlNBmhWru_O-43" value="Khách Hàng&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="s3C_4ocLMXlNBmhWru_O-43" value="Quản lý&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="840" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKltx8LlwTnS0seHunnq-49" value="Use case Admin" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
