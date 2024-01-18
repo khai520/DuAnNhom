@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T01:15:58.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZPptxJdFQZdQp8Hys7_c" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T01:18:52.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fDqtzdPH8CJ2Xlssr1iR" version="22.1.21" type="github">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -703,7 +703,7 @@
           <mxGeometry x="214.62" y="2410" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o23dWnhU8UfizFTgCehh-11" value="Tìm Kiếm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2540" width="125" height="40" as="geometry" />
+          <mxGeometry x="217.5" y="2460" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o23dWnhU8UfizFTgCehh-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.002;exitY=0.537;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.019;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o23dWnhU8UfizFTgCehh-7" target="o23dWnhU8UfizFTgCehh-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -715,6 +715,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="92" y="2538" as="sourcePoint" />
             <mxPoint x="227" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o23dWnhU8UfizFTgCehh-15" value="Liên Hệ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214.62" y="2510" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o23dWnhU8UfizFTgCehh-16" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.002;exitY=0.574;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o23dWnhU8UfizFTgCehh-7" target="o23dWnhU8UfizFTgCehh-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89" y="2546" as="sourcePoint" />
+            <mxPoint x="228" y="2490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o23dWnhU8UfizFTgCehh-17" value="Đăng Kí" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214.62" y="2560" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o23dWnhU8UfizFTgCehh-18" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.002;exitY=0.589;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o23dWnhU8UfizFTgCehh-7" target="o23dWnhU8UfizFTgCehh-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88" y="2551" as="sourcePoint" />
+            <mxPoint x="225" y="2540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o23dWnhU8UfizFTgCehh-19" value="Đăng Nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="2480" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o23dWnhU8UfizFTgCehh-21" value="Extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.216;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o23dWnhU8UfizFTgCehh-17" target="o23dWnhU8UfizFTgCehh-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="377.5" y="2480" as="sourcePoint" />
+            <mxPoint x="502.5" y="2508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
