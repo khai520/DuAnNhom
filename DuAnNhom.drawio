@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T14:08:31.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_0G9C8sk7rrp-h4f9szG" version="22.1.21" type="github" pages="2">
-  <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
-    <mxGraphModel dx="4175" dy="2713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-01-22T14:09:41.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lALz5cVUIGORc_lIJ0dB" version="22.1.21" type="github" pages="2">
+  <diagram name="Usecase Tổng" id="5llE8GZES7uabzYmKtOs">
+    <mxGraphModel dx="3348" dy="2713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="323.9999999999999" y="110" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JZ5myD8rYxTzlc6HxNOB-4" value="Quản lý bán giày sneaker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-27.5" y="-170" width="370" height="40" as="geometry" />
+          <mxGeometry x="157.5" y="-150" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3C_4ocLMXlNBmhWru_O-2" value="Use key KháchHàng" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="570.5" width="1110" height="599" as="geometry" />
@@ -845,8 +845,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Bni5tS3zKpZG3Yio4TAG" name="Trang-2">
-    <mxGraphModel dx="3617" dy="-1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Bni5tS3zKpZG3Yio4TAG" name="Activity Diagram Khách Hàng">
+    <mxGraphModel dx="5610" dy="-132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
