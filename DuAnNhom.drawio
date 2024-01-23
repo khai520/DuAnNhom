@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T00:26:50.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QTnkl9V8quyaYenrPjLV" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-23T00:30:12.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="N8pcT9kRzVHrK_M2itY_" version="22.1.21" type="github" pages="3">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="2501" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2263,7 +2263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h5CX9s105VLGVDKG58f4" name="Trang-3">
-    <mxGraphModel dx="4175" dy="-794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="-1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2708,7 +2708,7 @@
         <mxCell id="CuSFQ5r-MNrpnL_xmACK-70" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Hiển thị&amp;nbsp; màn hình Quản lý Nhân viên&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CuSFQ5r-MNrpnL_xmACK-63" vertex="1">
           <mxGeometry x="345" y="260" width="205" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CuSFQ5r-MNrpnL_xmACK-75" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;HIển thị chi tiết thông tin nhân viên&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CuSFQ5r-MNrpnL_xmACK-63" vertex="1">
+        <mxCell id="CuSFQ5r-MNrpnL_xmACK-75" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;HIển thị thông tin nhân viên&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CuSFQ5r-MNrpnL_xmACK-63" vertex="1">
           <mxGeometry x="365" y="500" width="235" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CuSFQ5r-MNrpnL_xmACK-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="CuSFQ5r-MNrpnL_xmACK-63" source="CuSFQ5r-MNrpnL_xmACK-80" target="CuSFQ5r-MNrpnL_xmACK-87" edge="1">
@@ -2717,7 +2717,7 @@
         <mxCell id="CuSFQ5r-MNrpnL_xmACK-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Hiển thị số ca trực của nhân viên&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CuSFQ5r-MNrpnL_xmACK-63" vertex="1">
           <mxGeometry x="205" y="610" width="245" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CuSFQ5r-MNrpnL_xmACK-81" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HIển thị các thông tin của nhân viên&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CuSFQ5r-MNrpnL_xmACK-63" vertex="1">
+        <mxCell id="CuSFQ5r-MNrpnL_xmACK-81" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HIển thị các thông tin chi tiết của nhân viên&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CuSFQ5r-MNrpnL_xmACK-63" vertex="1">
           <mxGeometry x="205" y="710" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CuSFQ5r-MNrpnL_xmACK-87" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="CuSFQ5r-MNrpnL_xmACK-63" vertex="1">
