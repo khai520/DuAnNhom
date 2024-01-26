@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T23:00:18.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="7UQfRC5guTcri7cC7jiy" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-26T23:02:53.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="SSVWYvLSFjWQnKBjuM6f" version="23.0.2" type="github" pages="7">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="2069" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5640,7 +5640,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ownRUfcJ-hKHdRoeQR7t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ESRMHMYg9qV5C2DkNn5-132" target="ownRUfcJ-hKHdRoeQR7t-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="875" />
+              <mxPoint x="440" y="1180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
