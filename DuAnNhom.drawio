@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T00:07:58.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="Odxs7-7NkkJt8-AcSbGq" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T00:11:35.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="gX5wTRlVpgjag6BNI6bF" version="23.0.2" type="github" pages="7">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="2069" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5998,10 +5998,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pJuL5u8oZzzKSi1GooCP-1" value="Nhân viên&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="160" height="120" as="geometry" />
+          <mxGeometry x="90" y="130" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-1">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        <mxCell id="pJuL5u8oZzzKSi1GooCP-2" value="+ Họ Nhân viên : String&lt;br&gt;+ Tên nhân viên : String&lt;br&gt;+ Ngày sinh : Date&lt;br&gt;+ Địa chỉ : String&lt;br&gt;+ CMND : String&lt;br&gt;+ SDT : String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-1">
+          <mxGeometry y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pJuL5u8oZzzKSi1GooCP-3" value="Khách hàng thân thiết" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="130" width="160" height="120" as="geometry" />
@@ -6018,14 +6018,14 @@
         <mxCell id="pJuL5u8oZzzKSi1GooCP-7" value="Sản phẩm" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1000" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-8" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-7">
+        <mxCell id="pJuL5u8oZzzKSi1GooCP-8" value="+ Tên sản phẩm :String&lt;br&gt;+&amp;nbsp;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-7">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pJuL5u8oZzzKSi1GooCP-9" value="Khách hàng&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="590" width="160" height="120" as="geometry" />
+          <mxGeometry x="90" y="590" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-10" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-9">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        <mxCell id="pJuL5u8oZzzKSi1GooCP-10" value="+ Họ khách hàng : String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Tên khách hàng : String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Ngày sinh : Date&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ Địa chỉ : String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ CMND : String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ SDT : String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-9">
+          <mxGeometry y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pJuL5u8oZzzKSi1GooCP-11" value="Hóa đơn sản phẩm&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="590" width="160" height="120" as="geometry" />
