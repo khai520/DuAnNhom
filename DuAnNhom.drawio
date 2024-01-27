@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T00:54:18.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="r0FZspIc9vFthJ5VIINs" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T00:55:20.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="ai2vIcq6OG9nibJjtbx6" version="23.0.2" type="github" pages="7">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="2069" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5860,7 +5860,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LRMMVCwcjuGeGGf5FeWE" name="ERD">
-    <mxGraphModel dx="1469" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2909" dy="2072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5912,7 +5912,7 @@
         <mxCell id="pJuL5u8oZzzKSi1GooCP-13" value="Hóa đơn" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="480" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-14" value="+ Id Hóa đơn : String&lt;br&gt;+ Ngày Hóa đơn : Date&lt;br&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-13">
+        <mxCell id="pJuL5u8oZzzKSi1GooCP-14" value="+ Id Hóa đơn : String&lt;br&gt;+ Ngày Hóa đơn : Date&lt;br&gt;+ Tổng : double" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-13">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oa4YfeM1VzuoyWPB69Xn-2" value="+ ThemHoaDon( inforHoaDon )&lt;br&gt;+ TaoBill () : Bill" style="whiteSpace=wrap;html=1;align=center;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-13">
@@ -5939,11 +5939,11 @@
         <mxCell id="s__NZhFyT27yqvtUdAdE-3" value="Bill" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="750" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="s__NZhFyT27yqvtUdAdE-4" value="+ Ngày tạo : Date&lt;br&gt;+&amp;nbsp;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="s__NZhFyT27yqvtUdAdE-3">
+        <mxCell id="s__NZhFyT27yqvtUdAdE-4" value="+ Ngày tạo : Date&lt;br&gt;+ Tổng : double" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="s__NZhFyT27yqvtUdAdE-3">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bussCVQE7oPwdXlFk6Ui-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="-420" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zGG9hbLyVVsRGrTU8Z8U-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="zGG9hbLyVVsRGrTU8Z8U-14" target="pJuL5u8oZzzKSi1GooCP-10">
           <mxGeometry relative="1" as="geometry" />
