@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T00:27:59.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="bTA194MG-ACTzjLAnwgG" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-27T00:29:47.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="ytZmsiqCEc8xJCeiSkGd" version="23.0.2" type="github" pages="7">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="2069" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5864,24 +5864,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-1" value="Nhân viên&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="160" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-2" value="+ Họ Nhân viên : String&lt;br&gt;+ Tên nhân viên : String&lt;br&gt;+ Ngày sinh : Date&lt;br&gt;+ Địa chỉ : String&lt;br&gt;+ CMND : String&lt;br&gt;+ SDT : String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-1">
-          <mxGeometry y="50" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-3" value="Khách hàng thân thiết" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-4" value="+ AddKh():&lt;br&gt;+ XoaKh():&lt;br&gt;+ SuaKh();" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-3">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-5" value="Báo cáo&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="130" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-5">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="pJuL5u8oZzzKSi1GooCP-7" value="Sản phẩm" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1000" width="160" height="120" as="geometry" />
         </mxCell>
@@ -5905,9 +5887,6 @@
         </mxCell>
         <mxCell id="pJuL5u8oZzzKSi1GooCP-14" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="pJuL5u8oZzzKSi1GooCP-13">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pJuL5u8oZzzKSi1GooCP-15" value="Nhân viên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pJuL5u8oZzzKSi1GooCP-16" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
@@ -5933,7 +5912,7 @@
         <mxCell id="bussCVQE7oPwdXlFk6Ui-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zGG9hbLyVVsRGrTU8Z8U-14" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zGG9hbLyVVsRGrTU8Z8U-14" value="Người dùng" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="300" width="150" height="230" as="geometry" />
         </mxCell>
         <mxCell id="zGG9hbLyVVsRGrTU8Z8U-15" value="+ user : String&lt;br&gt;+ password : String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="zGG9hbLyVVsRGrTU8Z8U-14">
