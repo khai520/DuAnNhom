@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T06:35:37.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="el1v2YPIzg2yBu2pGNcW" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-28T06:35:48.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Blpq3pQNnomQw2G-_UNh" version="23.0.2" type="github" pages="7">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5863,7 +5863,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LRMMVCwcjuGeGGf5FeWE" name="ERD">
-    <mxGraphModel dx="3321" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4231" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6245,6 +6245,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-860" y="635" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-_tiS6TUe1iTSSPa-taL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-_tiS6TUe1iTSSPa-taL-5" target="Mq0St_9GvVSR1dL_fTkE-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-_tiS6TUe1iTSSPa-taL-5" value="+ thêm hàng hóa ()&lt;br&gt;+ sửa thông tin hàng()&lt;br&gt;+ tìm kiếm hàng ()&lt;br&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-960" y="490" width="190" height="70" as="geometry" />
