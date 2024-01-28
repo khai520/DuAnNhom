@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T06:28:02.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="YeJdcGvhXsO-Q7dC9Ymg" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-28T06:29:19.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jeWFSJDno8Xz62Kku56U" version="23.0.2" type="github" pages="7">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5863,7 +5863,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LRMMVCwcjuGeGGf5FeWE" name="ERD">
-    <mxGraphModel dx="4096" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6681" dy="3257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6068,7 +6068,11 @@
           <mxGeometry y="50" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mq0St_9GvVSR1dL_fTkE-20" target="Mq0St_9GvVSR1dL_fTkE-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-670" y="-280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-20" value="khách hàng thân thiết&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1050" y="-360" width="180" height="160" as="geometry" />
@@ -6154,7 +6158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-51" value="chi tiết hóa đơn&amp;nbsp;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="-530" width="160" height="120" as="geometry" />
+          <mxGeometry x="-1040" y="-540" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-52" value="+ số lượng : int&amp;nbsp;&lt;br&gt;+ đơn giá" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Mq0St_9GvVSR1dL_fTkE-51">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -6162,6 +6166,10 @@
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mq0St_9GvVSR1dL_fTkE-52">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-670" y="-475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-780" y="-475" />
+              <mxPoint x="-780" y="-475" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-54" value="nghiệp vụ" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
