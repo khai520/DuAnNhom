@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T06:29:19.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jeWFSJDno8Xz62Kku56U" version="23.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-28T06:32:59.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7E_OMs_b4uAXz_SqLXQP" version="23.0.2" type="github" pages="7">
   <diagram name="Trang-1" id="5llE8GZES7uabzYmKtOs">
     <mxGraphModel dx="1877" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bni5tS3zKpZG3Yio4TAG" name="Trang-2">
-    <mxGraphModel dx="1707" dy="-1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="-1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2757,7 +2757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h5CX9s105VLGVDKG58f4" name="Trang-3">
-    <mxGraphModel dx="4188" dy="-1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10308" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4377,7 +4377,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OU2WRWUfAdqvls_gi0QO" name="Admin">
-    <mxGraphModel dx="2100" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4200" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5293,7 +5293,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O2i407bO_dkm-tieh6rR" name="Khách hàng">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5863,7 +5863,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LRMMVCwcjuGeGGf5FeWE" name="ERD">
-    <mxGraphModel dx="6681" dy="3257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3531" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6031,7 +6031,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-6" value="chi tiết phiếu xuất hàngg" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="530" width="160" height="120" as="geometry" />
+          <mxGeometry x="-1130" y="550" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-7" value="+ mã hàng xuất : string&lt;br&gt;+ số lượng xuất :string" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Mq0St_9GvVSR1dL_fTkE-6">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -6143,7 +6143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-47" value="chi tiết trả hàng" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="460" width="160" height="120" as="geometry" />
+          <mxGeometry x="-1330" y="540" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Mq0St_9GvVSR1dL_fTkE-48" value="+ mã hàng trả : string&lt;br&gt;+ số lượng trả : int&amp;nbsp;&lt;br&gt;+ ngày trả : date&amp;nbsp;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Mq0St_9GvVSR1dL_fTkE-47">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
@@ -6242,6 +6242,12 @@
         </mxCell>
         <mxCell id="KGeyY_hoNjf0xCAO6psg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mq0St_9GvVSR1dL_fTkE-62" target="KGeyY_hoNjf0xCAO6psg-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-_tiS6TUe1iTSSPa-taL-2" value="+ thêm phiếu ()&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ lưu phiếu ()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ xóa phiếu ()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ in phiếu ()" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="400" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-_tiS6TUe1iTSSPa-taL-3" value="+ thêm phiếu ()&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ lưu phiếu ()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ xóa phiếu ()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ in phiếu ()" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="860" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
